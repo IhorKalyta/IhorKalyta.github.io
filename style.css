@@ -23,9 +23,8 @@ h1 {
 	width: 50%;
 }
 
-.container .block .contactInfo .contactP {
-	color: #005dff;
-	margin-left: 2%;
+.container .block .contactInfo .contactVal {
+	color: #276adf;
 }
 
 .container .block .image {
@@ -66,7 +65,7 @@ h1 {
 	width: 50%;
 }
 
-.container .block .blue {
+.container .block .brown {
 	margin-left: 2%;
 	color: #a52a2a;
 }
