@@ -1,0 +1,72 @@
+html {
+	background-color: #f0ffff57;
+}
+
+h1 {
+	color: #00008b;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 5%
+}
+
+.container .block {
+	display: flex;
+	flex-direction: row;
+	border-bottom: 1px solid #f4d59d;
+}
+
+.container .block .contactInfo {
+	width: 50%;
+}
+
+.container .block .contactInfo .contactP {
+	color: #005dff;
+	margin-left: 2%;
+}
+
+.container .block .image {
+	margin-left: auto;
+}
+
+.container .block .image img {	
+	border-radius: 15%;
+	width: 200px;
+	height: 180px;
+}
+
+.container .block .name {
+	width: 30%;
+	padding: 1%;
+	background-color: #1964e714;
+}
+
+.container .block .description {
+	background-color: #f0ffff;
+	padding: 1%;
+	width: 70%;
+}
+
+.container .block .descriptionFlex {
+	display: flex;
+	flex-direction: row;
+	background-color: #f0ffff;
+	padding: 1%;
+	width: 70%;
+}
+
+.container .block .descriptionFlex .languages {
+	width: 50%;
+}
+
+.container .block .descriptionFlex .softSkills {
+	width: 50%;
+}
+
+.container .block .blue {
+	margin-left: 2%;
+	color: #a52a2a;
+}
