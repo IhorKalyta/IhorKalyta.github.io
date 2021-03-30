@@ -10,7 +10,7 @@ h1 {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	margin: 5%
+	margin: 5%;
 }
 
 .container .block {
@@ -24,7 +24,7 @@ h1 {
 }
 
 .container .block .contactInfo .contactVal {
-	color: #276adf;
+	color: #6f82a3;
 }
 
 .container .block .image {
@@ -68,4 +68,11 @@ h1 {
 .container .block .brown {
 	margin-left: 2%;
 	color: #a52a2a;
+	font-weight: bold;
+}
+
+.container .block .blue {
+	margin-left: 1%;
+	color: #1c7ead;
+	font-weight: bold;
 }
